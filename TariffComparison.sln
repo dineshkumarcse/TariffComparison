@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffComparison", "TariffCalculation\TariffComparison.csproj", "{94159DF9-F5BD-4D48-B67E-E2DB4E548492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffComparisonTests", "TariffCalculationTests\TariffComparisonTests.csproj", "{21A1C591-58A1-4F2F-AA29-EA0F39346F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94159DF9-F5BD-4D48-B67E-E2DB4E548492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94159DF9-F5BD-4D48-B67E-E2DB4E548492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94159DF9-F5BD-4D48-B67E-E2DB4E548492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94159DF9-F5BD-4D48-B67E-E2DB4E548492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A1C591-58A1-4F2F-AA29-EA0F39346F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A1C591-58A1-4F2F-AA29-EA0F39346F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A1C591-58A1-4F2F-AA29-EA0F39346F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A1C591-58A1-4F2F-AA29-EA0F39346F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F95555DF-C23A-4D6E-9B6E-D5EE22D9BE8E}
+	EndGlobalSection
+EndGlobal
